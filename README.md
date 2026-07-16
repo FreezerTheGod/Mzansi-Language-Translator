@@ -1,5 +1,5 @@
 # Mzansi Translator 🇿🇦
-I built this Streamlit app to make translating between South Africa's local languages quick and free. It's a simple web app that lets you pick a source and target language from all 9 of our official languages and translates your text in a couple of seconds. The app is coded in Python using Streamlit for the interface, connected to Hugging Face's Inference API for the actual translation.
+I built this Streamlit app to make translating between South Africa's local languages. It's a simple web app that lets you pick a source and target language from all 9 of our official languages and translates your text in a couple of seconds. The app is coded in Python using Streamlit for the interface, connected to Hugging Face's Inference API for the actual translation.
 
 <img width="1272" height="885" alt="Screenshot_2026-07-16_18-51-25" src="https://github.com/user-attachments/assets/310646a3-e945-44ae-b6bc-03f656572c68" />
 
